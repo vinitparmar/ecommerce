@@ -7,6 +7,7 @@ export default {
         price:50,
         brand:'Nike',
         category:'shirt',
+        countInStock:0,
     },
     {
         _id : '2',
@@ -15,6 +16,7 @@ export default {
         price:10,
         brand:'Nike',
         category:'shirt',
+        countInStock:4,
     },
     {   
         _id : '3',
@@ -23,6 +25,7 @@ export default {
         price:5,
         brand:'Nike',
         category:'pant',
+        countInStock:6,
     },
     {
         _id : '4',
@@ -31,6 +34,7 @@ export default {
         price:10,
         brand:'Nike',
         category:'shirt',
+        countInStock:16,
     },
     {
         _id : '5',
@@ -39,6 +43,7 @@ export default {
         price:5,
         brand:'Nike',
         category:'pant',
+        countInStock:8,
     }
 ]
 }
